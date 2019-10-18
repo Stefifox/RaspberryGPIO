@@ -1,8 +1,17 @@
 # RaspberryGPIO
 ## Easy codes for GPIO on Raspberry pi
 
-### Requirements
-- Raspberry pi (or later)
-- Python3
-  - gpiozero module
-  - Another modules are in Requirements.txt
+### Physical requirements
+- [Raspberry Pi](https://www.raspberrypi.org/)
+  
+### Installation
+Clone this repo:
+```
+$ git clone https://github.com/Stefifox/RaspberryGPIO.git
+$ cd RaspberryGPIO
+```
+
+Install project requirements:
+```
+pip install -r requirements.txt
+```
