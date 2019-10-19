@@ -18,13 +18,11 @@ pip install -r requirements.txt
 
 ### gpiozero documentations
 
-For this project I use gpiozero module, all documentations are on [gpiozero.readthedocs.io](https://gpiozero.readthedocs.io/en/stable/)
-
-All examples of code are based on this documentations
+For this project I use gpiozero module and all the example codes are based on this [documentation](https://gpiozero.readthedocs.io/en/stable/).
 
 ### Division of the code
 
-- requirements.txt # What modules who the code uses
+- requirements.txt # What modules are used by the code
 - pinout.txt # Positions of pin on Raspberry (40pin models)
 - Base_Project
     - Base.py # Base blink led project
@@ -38,4 +36,3 @@ You can follow me on:
 - [Teleram Channel](https://t.me/StefifoxChannel)
 - [Repl.it](https://Repl.it/@Stefifox)
 - [Donwload my Apps](http://bit.ly/StefifoxApps)
-
