@@ -23,7 +23,8 @@ For this project I use gpiozero module and all the example codes are based on th
 ### Division of the code
 
 - requirements.txt # What modules are used by the code
-- pinout.txt # Positions of pin on Raspberry (40pin models)
+- pinout.txt # Positions of pin on Raspberry (40pins models)
+- pinout26.txt # Positions of pin on Raspberry (26pins models) 
 - Base_Project
     - Base.py # Base blink led project
     - Button.py # Base toggle led project with a button
