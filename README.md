@@ -37,3 +37,7 @@ You can follow me on:
 - [Teleram Channel](https://t.me/StefifoxChannel)
 - [Repl.it](https://Repl.it/@Stefifox)
 - [Donwload my Apps](http://bit.ly/StefifoxApps)
+
+## Collaborators
+
+- Ale183 - [Profile](https://github.com/Ale183)
