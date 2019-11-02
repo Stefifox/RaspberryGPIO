@@ -10,7 +10,7 @@ def log(message):
     file.close()
 
 
-def log(message, n_file):
+def log_file(message, n_file):
     hour = str(time.strftime("%H:%M:%S"))
     file = open( ".//" + n_file, "a")
     file.write("[" + hour + "] " + message + "\n")
